@@ -1,7 +1,7 @@
-# Features 
-> @vs 0.3.2
+# Features @vs 0.3.2
 
 ## Docs
+- [_Shared_](./docs/feature-shared.md)
 - [TypeScript](./docs/typescript.md)
 - [Jest](./docs/jest.md)
 
@@ -10,7 +10,7 @@ Say we have a feature we're calling **Help**, the `./src/features/Help` director
 
 The [cra react/redux template](https://redux-toolkit.js.org/introduction/getting-started) uses a concept of features. This is to say that all files relating to a particular concern are kept in a namespaced folder under the features directory. 
 
-Of course there are components which need to be shared across features, so the most important Feature in this project is `Shared`.
+Of course there are components which need to be shared across features, so the most important _Feature_ in this project is [_Shared_](./docs/feature-shared.md)
 
 ### Installing to HUB 
 
