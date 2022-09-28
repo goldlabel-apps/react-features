@@ -1,4 +1,4 @@
-## Features @vs0.3.3
+## Features @vs0.3.4
 
 The [CRA react/redux template](https://redux-toolkit.js.org/introduction/getting-started) introduces a new concept of **Features**. This is to say that all files relating to a particular concern are kept together in a namespaced folder under in features directory. Of course there are components which need to be shared across features, so the most important Feature in this project is Shared. For example, say we are developing a new feature we're calling **Help**, the `./src/features/Help` directory eould contain some or all of these fings... redux reducer & actions, pages, components, tests etc
 
