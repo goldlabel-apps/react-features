@@ -1,9 +1,13 @@
 # Features @vs 0.3.2
 
 ## Docs
-- [_Shared_](./docs/feature-shared.md)
-- [TypeScript](./docs/typescript.md)
-- [Jest](./docs/jest.md)
+
+- Features
+  - [Shared](./docs/feature-shared.md)
+
+- More
+  - [TypeScript](./docs/typescript.md)
+  - [Jest](./docs/jest.md)
 
 ### Agile Story
 Say we have a feature we're calling **Help**, the `./src/features/Help` directory might contain some or all of these... Reducer, Actions, Pages, Components. 
