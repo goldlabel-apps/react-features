@@ -1,4 +1,3 @@
-This PR does this...
+## This PR introduces Features to HUB
 
-Find a good PR Template
-
+[Docs](https://github.com/DT9Media/dt9-react-features/tree/master/docs)
