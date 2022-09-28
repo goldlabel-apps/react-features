@@ -1,11 +1,10 @@
 # Features @vs 0.3.2
 
-## Docs
-
+## README
 - Features
   - [Shared](./docs/feature-shared.md)
-
-- More
+  - [Sites](./docs/feature-sites.md)
+- Read more
   - [TypeScript](./docs/typescript.md)
   - [Jest](./docs/jest.md)
 
