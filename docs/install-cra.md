@@ -10,5 +10,10 @@ The recommended way to start new apps with React and Redux is by using the offic
 cd <working-dir>
 # Redux + TypeScript template
 npx create-react-app my-app --template redux-typescript
+cd myapp
+npm start
 ```
 
+The new app should open in your default browser on the url http://localhost:300 and look like this
+
+![Features](./media/cra-redux-toolkit-ts.png)
