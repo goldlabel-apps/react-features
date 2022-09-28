@@ -1,4 +1,4 @@
-## Install to CRA
+## Install Features to CRA
 
 Features can in theory be installed to any React App. To make sure this is the case, we're going to use create-reat-app to create a typical React app with redux and @redux-toolkit. We will then install Features and verify it works
 
@@ -14,6 +14,6 @@ cd myapp
 npm start
 ```
 
-The new app should open in your default browser on the url http://localhost:300 and look like this
+myapp will open in default browser on the url http://localhost:3000 and look like this
 
 ![Features](./media/cra-redux-toolkit-ts.png)

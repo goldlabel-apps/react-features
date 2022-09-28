@@ -9,9 +9,9 @@ The [CRA react/redux template](https://redux-toolkit.js.org/introduction/getting
   - [Shared](./docs/feature-shared.md)
   - [Sites](./docs/feature-sites.md)
 - Install
-  - [Install to HUB](./docs/install-hub.md)
   - [Install to CRA](./docs/install-cra.md)
-- Read more
+  - [Install to HUB](./docs/install-hub.md)
+- More
   - [GitHub Packages](./docs/github-packages.md)
   - [TypeScript](./docs/typescript.md)
   - [Jest](./docs/jest.md)
