@@ -2,7 +2,8 @@
 
 ## README
 
-- [Install to HUB](./docs/hub-install.md)
+- [Install to HUB](./docs/install-hub.md)
+- [Install to CRA](./docs/install-cra.md)
 - Features
   - [Shared](./docs/feature-shared.md)
   - [Sites](./docs/feature-sites.md)
