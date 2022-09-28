@@ -29,4 +29,3 @@ You can set up the scope mapping for your project using either a local *.npmrc* 
 When you first publish a package, the default visibility is private. When a package is linked to repository, the package visibility is dependent on the repository's visibility. To change the visibility or set access permissions, see "[Configuring a package's access control and visibility](https://docs.github.com/en/packages/learn-github-packages/configuring-a-packages-access-control-and-visibility)."
 
 After you publish a package, you can view the package on GitHub. For more information, see "[Viewing packages](https://docs.github.com/en/packages/manage-packages/viewing-packages)."
-

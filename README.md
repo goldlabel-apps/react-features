@@ -4,7 +4,6 @@ The [CRA react/redux template](https://redux-toolkit.js.org/introduction/getting
 
 #### README 
 
-
 - Features
   - [Shared](./docs/feature-shared.md)
   - [Sites](./docs/feature-sites.md)
@@ -12,6 +11,7 @@ The [CRA react/redux template](https://redux-toolkit.js.org/introduction/getting
   - [Install to CRA](./docs/install-cra.md)
   - [Install to HUB](./docs/install-hub.md)
 - More
+  - [Create NPM Package](./docs/create-npm-package.md)
   - [GitHub Packages](./docs/github-packages.md)
   - [TypeScript](./docs/typescript.md)
   - [Jest](./docs/jest.md)
