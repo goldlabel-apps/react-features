@@ -17,7 +17,6 @@ Of course there are components which need to be shared across features, so the m
 
 ### Installing to HUB 
 
-
 **New dependencies** 
 
 Installing Features to HUB and merging the code into staging is straightforward and will only required once. However, there are a few extra dependencies we'll need to add and NPM is currently causing issues in HUB dependencies whereby the `--force` flag is usually needed. 
